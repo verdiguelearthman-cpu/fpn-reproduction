@@ -1,0 +1,31 @@
+# 数据集（体积过大，不上传）
+coco/
+data/
+
+# 模型权重
+checkpoints/
+*.pth
+*.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pycache_raw/
+logs_raw/
+results_raw/
+
+# 虚拟环境
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
